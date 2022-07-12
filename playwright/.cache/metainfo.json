@@ -1,0 +1,60 @@
+{
+  "version": 5,
+  "registerSourceHash": "1f23c6e3e881901e3ff8a855629b7b9bcf1b6a8b",
+  "components": [
+    {
+      "fullName": "_Users_digitalclubb_repos_playwright_images_src_App_tsx",
+      "importPath": "/Users/digitalclubb/repos/playwright-images/src/App.tsx",
+      "isModuleOrAlias": false
+    }
+  ],
+  "tests": {
+    "/Users/digitalclubb/repos/playwright-images/src/App.test.tsx": {
+      "timestamp": 1657622478007.363,
+      "components": [
+        "_Users_digitalclubb_repos_playwright_images_src_App_tsx"
+      ]
+    }
+  },
+  "sources": {
+    "/Users/digitalclubb/repos/playwright-images/playwright/index.html": {
+      "timestamp": 1657621544888.0251
+    },
+    "/Users/digitalclubb/repos/playwright-images/playwright/index.ts": {
+      "timestamp": 1657622442478.057
+    },
+    "/Users/digitalclubb/repos/playwright-images/node_modules/react/index.js": {
+      "timestamp": 1657623036482.6013
+    },
+    "/Users/digitalclubb/repos/playwright-images/public/logo.svg": {
+      "timestamp": 1657195924381.3623
+    },
+    "/Users/digitalclubb/repos/playwright-images/node_modules/react-dom/index.js": {
+      "timestamp": 1657623036584.3083
+    },
+    "/Users/digitalclubb/repos/playwright-images/src/App.tsx": {
+      "timestamp": 1657622167979.087
+    },
+    "/Users/digitalclubb/repos/playwright-images/node_modules/react/cjs/react.production.min.js": {
+      "timestamp": 1657623038202.1228
+    },
+    "/Users/digitalclubb/repos/playwright-images/node_modules/react-dom/cjs/react-dom.production.min.js": {
+      "timestamp": 1657623039806.6042
+    },
+    "/Users/digitalclubb/repos/playwright-images/node_modules/react/jsx-runtime.js": {
+      "timestamp": 1657623036717.6416
+    },
+    "/Users/digitalclubb/repos/playwright-images/node_modules/scheduler/index.js": {
+      "timestamp": 1657623036479.882
+    },
+    "/Users/digitalclubb/repos/playwright-images/node_modules/react/cjs/react-jsx-runtime.production.min.js": {
+      "timestamp": 1657623037673.036
+    },
+    "/Users/digitalclubb/repos/playwright-images/node_modules/scheduler/cjs/scheduler.production.min.js": {
+      "timestamp": 1657623038015.869
+    },
+    "/Users/digitalclubb/repos/playwright-images/src/App.css": {
+      "timestamp": 1657195924380.0503
+    }
+  }
+}
